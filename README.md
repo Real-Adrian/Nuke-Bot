@@ -1,2 +1,4 @@
-Discord : https://discord.gg/22ArRhw8JQ
-#By LokMx
+# Nuke Bot
+
+#How To Run
+Just Click On .exe File
